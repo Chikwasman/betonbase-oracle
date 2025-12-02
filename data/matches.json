@@ -1,0 +1,346 @@
+{
+  "matches": {
+    "1377996": {
+      "apiMatchId": 1377996,
+      "homeTeam": "Inter",
+      "awayTeam": "Como",
+      "kickoffTime": 1765040400,
+      "league": 135,
+      "leagueName": "Serie A",
+      "status": "added",
+      "addedAt": 1764663077257
+    },
+    "1378000": {
+      "apiMatchId": 1378000,
+      "homeTeam": "Sassuolo",
+      "awayTeam": "Fiorentina",
+      "kickoffTime": 1765029600,
+      "league": 135,
+      "leagueName": "Serie A",
+      "status": "added",
+      "addedAt": 1764663074375
+    },
+    "1378003": {
+      "apiMatchId": 1378003,
+      "homeTeam": "Verona",
+      "awayTeam": "Atalanta",
+      "kickoffTime": 1765050300,
+      "league": 135,
+      "leagueName": "Serie A",
+      "status": "added",
+      "addedAt": 1764663080249
+    },
+    "1379099": {
+      "apiMatchId": 1379099,
+      "homeTeam": "Arsenal",
+      "awayTeam": "Brentford",
+      "kickoffTime": 1764790200,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663013415
+    },
+    "1379100": {
+      "apiMatchId": 1379100,
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Everton",
+      "kickoffTime": 1764703800,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663000998
+    },
+    "1379101": {
+      "apiMatchId": 1379101,
+      "homeTeam": "Brighton",
+      "awayTeam": "Aston Villa",
+      "kickoffTime": 1764790200,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663019050
+    },
+    "1379102": {
+      "apiMatchId": 1379102,
+      "homeTeam": "Burnley",
+      "awayTeam": "Crystal Palace",
+      "kickoffTime": 1764790200,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663016219
+    },
+    "1379103": {
+      "apiMatchId": 1379103,
+      "homeTeam": "Fulham",
+      "awayTeam": "Manchester City",
+      "kickoffTime": 1764703800,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663004091
+    },
+    "1379104": {
+      "apiMatchId": 1379104,
+      "homeTeam": "Leeds",
+      "awayTeam": "Chelsea",
+      "kickoffTime": 1764792900,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663024768
+    },
+    "1379105": {
+      "apiMatchId": 1379105,
+      "homeTeam": "Liverpool",
+      "awayTeam": "Sunderland",
+      "kickoffTime": 1764792900,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663021855
+    },
+    "1379106": {
+      "apiMatchId": 1379106,
+      "homeTeam": "Manchester United",
+      "awayTeam": "West Ham",
+      "kickoffTime": 1764878400,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663027818
+    },
+    "1379107": {
+      "apiMatchId": 1379107,
+      "homeTeam": "Newcastle",
+      "awayTeam": "Tottenham",
+      "kickoffTime": 1764706500,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663007059
+    },
+    "1379108": {
+      "apiMatchId": 1379108,
+      "homeTeam": "Wolves",
+      "awayTeam": "Nottingham Forest",
+      "kickoffTime": 1764790200,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663010628
+    },
+    "1379109": {
+      "apiMatchId": 1379109,
+      "homeTeam": "Aston Villa",
+      "awayTeam": "Arsenal",
+      "kickoffTime": 1765024200,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663030675
+    },
+    "1379110": {
+      "apiMatchId": 1379110,
+      "homeTeam": "Bournemouth",
+      "awayTeam": "Chelsea",
+      "kickoffTime": 1765033200,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663036470
+    },
+    "1379112": {
+      "apiMatchId": 1379112,
+      "homeTeam": "Everton",
+      "awayTeam": "Nottingham Forest",
+      "kickoffTime": 1765033200,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663039362
+    },
+    "1379114": {
+      "apiMatchId": 1379114,
+      "homeTeam": "Leeds",
+      "awayTeam": "Liverpool",
+      "kickoffTime": 1765042200,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663048290
+    },
+    "1379115": {
+      "apiMatchId": 1379115,
+      "homeTeam": "Manchester City",
+      "awayTeam": "Sunderland",
+      "kickoffTime": 1765033200,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663045602
+    },
+    "1379116": {
+      "apiMatchId": 1379116,
+      "homeTeam": "Newcastle",
+      "awayTeam": "Burnley",
+      "kickoffTime": 1765033200,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663033657
+    },
+    "1379117": {
+      "apiMatchId": 1379117,
+      "homeTeam": "Tottenham",
+      "awayTeam": "Brentford",
+      "kickoffTime": 1765033200,
+      "league": 39,
+      "leagueName": "Premier League",
+      "status": "added",
+      "addedAt": 1764663042488
+    },
+    "1388416": {
+      "apiMatchId": 1388416,
+      "homeTeam": "FC Augsburg",
+      "awayTeam": "Bayer Leverkusen",
+      "kickoffTime": 1765031400,
+      "league": 78,
+      "leagueName": "Bundesliga",
+      "status": "added",
+      "addedAt": 1764663095797
+    },
+    "1388418": {
+      "apiMatchId": 1388418,
+      "homeTeam": "1. FC Köln",
+      "awayTeam": "FC St. Pauli",
+      "kickoffTime": 1765031400,
+      "league": 78,
+      "leagueName": "Bundesliga",
+      "status": "added",
+      "addedAt": 1764663104121
+    },
+    "1388420": {
+      "apiMatchId": 1388420,
+      "homeTeam": "1. FC Heidenheim",
+      "awayTeam": "SC Freiburg",
+      "kickoffTime": 1765031400,
+      "league": 78,
+      "leagueName": "Bundesliga",
+      "status": "added",
+      "addedAt": 1764663101476
+    },
+    "1388421": {
+      "apiMatchId": 1388421,
+      "homeTeam": "FSV Mainz 05",
+      "awayTeam": "Borussia Mönchengladbach",
+      "kickoffTime": 1764963000,
+      "league": 78,
+      "leagueName": "Bundesliga",
+      "status": "added",
+      "addedAt": 1764663085094
+    },
+    "1388422": {
+      "apiMatchId": 1388422,
+      "homeTeam": "RB Leipzig",
+      "awayTeam": "Eintracht Frankfurt",
+      "kickoffTime": 1765042200,
+      "league": 78,
+      "leagueName": "Bundesliga",
+      "status": "added",
+      "addedAt": 1764663106853
+    },
+    "1388423": {
+      "apiMatchId": 1388423,
+      "homeTeam": "VfB Stuttgart",
+      "awayTeam": "Bayern München",
+      "kickoffTime": 1765031400,
+      "league": 78,
+      "leagueName": "Bundesliga",
+      "status": "added",
+      "addedAt": 1764663098661
+    },
+    "1388424": {
+      "apiMatchId": 1388424,
+      "homeTeam": "VfL Wolfsburg",
+      "awayTeam": "Union Berlin",
+      "kickoffTime": 1765031400,
+      "league": 78,
+      "leagueName": "Bundesliga",
+      "status": "added",
+      "addedAt": 1764663092895
+    },
+    "1390959": {
+      "apiMatchId": 1390959,
+      "homeTeam": "Alaves",
+      "awayTeam": "Real Sociedad",
+      "kickoffTime": 1765034100,
+      "league": 140,
+      "leagueName": "La Liga",
+      "status": "added",
+      "addedAt": 1764663063881
+    },
+    "1390960": {
+      "apiMatchId": 1390960,
+      "homeTeam": "Athletic Club",
+      "awayTeam": "Atletico Madrid",
+      "kickoffTime": 1765051200,
+      "league": 140,
+      "leagueName": "La Liga",
+      "status": "added",
+      "addedAt": 1764663069590
+    },
+    "1390961": {
+      "apiMatchId": 1390961,
+      "homeTeam": "Real Betis",
+      "awayTeam": "Barcelona",
+      "kickoffTime": 1765042200,
+      "league": 140,
+      "leagueName": "La Liga",
+      "status": "added",
+      "addedAt": 1764663066617
+    },
+    "1390966": {
+      "apiMatchId": 1390966,
+      "homeTeam": "Oviedo",
+      "awayTeam": "Mallorca",
+      "kickoffTime": 1764964800,
+      "league": 140,
+      "leagueName": "La Liga",
+      "status": "added",
+      "addedAt": 1764663058495
+    },
+    "1390968": {
+      "apiMatchId": 1390968,
+      "homeTeam": "Villarreal",
+      "awayTeam": "Getafe",
+      "kickoffTime": 1765026000,
+      "league": 140,
+      "leagueName": "La Liga",
+      "status": "added",
+      "addedAt": 1764663061073
+    },
+    "1390999": {
+      "apiMatchId": 1390999,
+      "homeTeam": "Athletic Club",
+      "awayTeam": "Real Madrid",
+      "kickoffTime": 1764784800,
+      "league": 140,
+      "leagueName": "La Liga",
+      "status": "added",
+      "addedAt": 1764663055674
+    },
+    "1391000": {
+      "apiMatchId": 1391000,
+      "homeTeam": "Barcelona",
+      "awayTeam": "Atletico Madrid",
+      "kickoffTime": 1764705600,
+      "league": 140,
+      "leagueName": "La Liga",
+      "status": "added",
+      "addedAt": 1764663052898
+    }
+  },
+  "lastUpdate": 1764663106853,
+  "version": "1.0.0"
+}
